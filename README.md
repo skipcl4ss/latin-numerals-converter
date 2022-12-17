@@ -6,7 +6,4 @@ I may add new features later.
 
 I will start soon inshallah.
 
-<details>
-  <summary>Big News</summary>
-  Just found out this [Leetcode problem](https://leetcode.com/problems/roman-to-integer) which apparently is the same as this project lol.
-</details>
+*Just found out this [Leetcode problem](https://leetcode.com/problems/roman-to-integer) which apparently is the same as this project lol.*
